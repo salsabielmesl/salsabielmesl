@@ -49,7 +49,7 @@
 
 ### 🌐 Frameworks & Web Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,next,fastapi,laravel,bootstrap,jquery,tailwind,html,css&perline=8" alt="Frameworks and Web" />
+  <img src="https://skillicons.dev/icons?i=fastapi,laravel,bootstrap,jquery,tailwind,html,css&perline=8" alt="Frameworks and Web" />
   <img src="https://img.shields.io/badge/CodeIgniter%203-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
 </p>
 
