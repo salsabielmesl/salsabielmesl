@@ -102,7 +102,7 @@
 | **🏥 Clinic Management System** | PHP, CodeIgniter, MySQL, Bootstrap | Role-based clinical app streamlining appointment scheduling, electronic medical records, patient billing, and reporting. | [View Repo](https://github.com/salsabielmesl) |
 | **📁 Archive Management System** | PHP, CodeIgniter, RBAC, MySQL | Secure document management platform with Role-Based Access Control (RBAC) and categorized document storage. | [View Repo](https://github.com/salsabielmesl) |
 | **📈 Accounting Analytics Pipeline** | Python, Pandas, Scikit-learn | End-to-end data preprocessing and predictive analytics pipeline tailored for financial data engineering. | [View Repo](https://github.com/salsabielmesl) |
-| **🔎 Search Intelligence Pipeline** | Python, DuckDB, Random Forest | Leakage-free search query engine across 30k+ records with precision-lifted decision automation. | [View Repo](https://github.com/salsabielmesl) |
+| **🔎 Search Intelligence Pipeline** | Python, DuckDB, Random Forest | Leakage-free search query engine across 30k+ records with precision-lifted decision automation. | [View Repo](https://github.com/salsabielmesl/flyrank-ml-assignments) |
 
 ---
 
