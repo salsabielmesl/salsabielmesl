@@ -42,7 +42,8 @@
 
 ### 💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,php,java,js,cpp,r,bash&perline=8" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=py,php,java,js,c,cpp,r,bash&perline=8" alt="Programming Languages" />
+  <img src="https://img.shields.io/badge/Prolog-742880?style=for-the-badge&logo=swi-prolog&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MIPS%20Assembly-000000?style=for-the-badge&logo=cpu&logoColor=white" />
 </p>
