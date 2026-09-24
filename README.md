@@ -62,6 +62,13 @@
   <img src="https://img.shields.io/badge/XGBoost-150458?style=for-the-badge&logo=xgboost&logoColor=white" />
   <img src="https://img.shields.io/badge/SHAP%20Explainability-007ACC?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Feature%20Engineering-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Predictive%20Modeling-41B883?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-239120?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-F7931E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/EDA-8E44AD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dashboarding-E67E22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Cleaning-16A085?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Preparation-2980B9?style=for-the-badge" />
 </p>
 
 ### 🗄 Databases & Query Engines
