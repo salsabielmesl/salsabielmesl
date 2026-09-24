@@ -109,7 +109,7 @@
 | Project | Technologies | Summary & Impact | Link |
 | :--- | :--- | :--- | :---: |
 | **🩺 Tibyan** | FastAPI, PHP/CodeIgniter, LightGBM, XGBoost, SHAP | Smart Healthcare Platform with MFA & encryption. Achieved **93.45% AUC** for T1D prediction and **99.29% accuracy** for T2D subtype classification. | [View Repo](https://github.com/salsabielmesl/Tibyan) |
-| **🏥 Clinic Management System** | PHP, CodeIgniter, MySQL, Bootstrap | Role-based clinical app streamlining appointment scheduling, electronic medical records, patient billing, and reporting. | [View Repo](https://github.com/salsabielmesl) |
+| **🏥 Clinic Management System** | PHP, CodeIgniter, MySQL, Bootstrap | Role-based clinical app streamlining appointment scheduling, electronic medical records, patient billing, and reporting. | [View Repo](https://github.com/salsabielmesl/Medilab) |
 | **📁 Archive Management System** | PHP, CodeIgniter, RBAC, MySQL | Secure document management platform with Role-Based Access Control (RBAC) and categorized document storage. | [View Repo](https://github.com/salsabielmesl) |
 | **📈 Accounting Analytics Pipeline** | Python, Pandas, Scikit-learn | End-to-end data preprocessing and predictive analytics pipeline tailored for financial data engineering. | [View Repo](https://github.com/salsabielmesl) |
 | **🔎 Search Intelligence Pipeline** | Python, DuckDB, Random Forest | Leakage-free search query engine across 30k+ records with precision-lifted decision automation. | [View Repo](https://github.com/salsabielmesl/flyrank-ml-assignments) |
