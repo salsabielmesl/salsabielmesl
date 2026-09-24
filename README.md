@@ -71,7 +71,7 @@
 
 ### 🛠 Tools & Environment
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,postman,docker&perline=8" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,postman" alt="Tools" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
   <img src="https://img.shields.io/badge/WampServer-05A55B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
