@@ -75,6 +75,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres&perline=8" alt="Databases" />
   <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
+  <img src="https://img.shields.io/badge/Relational%20Databases-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Database%20Optimization-0077B5?style=for-the-badge" />
 </p>
 
