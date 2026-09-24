@@ -52,6 +52,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=fastapi,laravel,bootstrap,jquery,tailwind,html,css&perline=8" alt="Frameworks and Web" />
   <img src="https://img.shields.io/badge/CodeIgniter%203-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
 </p>
 
 ### 🤖 Machine Learning & Data Science
